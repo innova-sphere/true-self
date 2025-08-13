@@ -1,0 +1,191 @@
+{
+  "1": {
+    "id": "1",
+    "module_id": "1",
+    "title": "Email Address",
+    "question_text": "Users enter their email address for account creation and verification",
+    "input_type": "text_input_email",
+    "required": "Yes",
+    "options": ""
+  },
+  "2": {
+    "id": "2",
+    "module_id": "1",
+    "title": "Email Confirmation",
+    "question_text": "Users re-enter their email address to confirm accuracy",
+    "input_type": "text_input_email_match",
+    "required": "Yes",
+    "options": ""
+  },
+  "3": {
+    "id": "3",
+    "module_id": "1",
+    "title": "Password",
+    "question_text": "Users create a secure password for their account",
+    "input_type": "password_field",
+    "required": "Yes",
+    "options": ""
+  },
+  "4": {
+    "id": "4",
+    "module_id": "1",
+    "title": "Password Confirmation",
+    "question_text": "Users re-enter their password to confirm accuracy",
+    "input_type": "password_field_match",
+    "required": "Yes",
+    "options": ""
+  },
+  "5": {
+    "id": "5",
+    "module_id": "1",
+    "title": "Workplace Code",
+    "question_text": "Users can optionally enter a workplace code if their organization is partnered with SPHERE",
+    "input_type": "text_input_code",
+    "required": "No",
+    "options": ""
+  },
+  "6": {
+    "id": "6",
+    "module_id": "1",
+    "title": "Phone Number",
+    "question_text": "Users enter their phone number with country selection",
+    "input_type": "international_phone",
+    "required": "Yes",
+    "options": ""
+  },
+  "7": {
+    "id": "7",
+    "module_id": "1",
+    "title": "Preferred Communication Method",
+    "question_text": "Users select how they prefer to be contacted",
+    "input_type": "radio",
+    "required": "Yes",
+    "options": "1,2"
+  },
+  "8": {
+    "id": "8",
+    "module_id": "1",
+    "title": "First Name",
+    "question_text": "Users enter their first name for personalization",
+    "input_type": "text_input",
+    "required": "Yes",
+    "options": ""
+  },
+  "9": {
+    "id": "9",
+    "module_id": "1",
+    "title": "Last Name",
+    "question_text": "Users enter their last name for personalization",
+    "input_type": "text_input",
+    "required": "Yes",
+    "options": ""
+  },
+  "10": {
+    "id": "10",
+    "module_id": "1",
+    "title": "Location/Province",
+    "question_text": "Users select their location from a dropdown list",
+    "input_type": "dropdown",
+    "required": "Yes",
+    "options": "3,4,5,6,7,8,9,10,11,12,13,14,15"
+  },
+  "11": {
+    "id": "11",
+    "module_id": "1",
+    "title": "Operating System Preference",
+    "question_text": "Users select their preferred operating system",
+    "input_type": "radio",
+    "required": "Yes",
+    "options": "16,17"
+  },
+  "12": {
+    "id": "12",
+    "module_id": "1",
+    "title": "Resources Format",
+    "question_text": "Users select their preferred content format",
+    "input_type": "checkbox",
+    "required": "No",
+    "options": "18,19,20,21,22,23"
+  },
+  "13": {
+    "id": "13",
+    "module_id": "1",
+    "title": "Nature of Work",
+    "question_text": "Users describe the nature of their work to help personalize their experience",
+    "input_type": "photo_selection",
+    "required": "Yes",
+    "options": "24,25,26"
+  },
+  "14": {
+    "id": "14",
+    "module_id": "2",
+    "title": "Work Environment",
+    "question_text": "Users select an image that best represents their current workspace setup",
+    "input_type": "photo_selection",
+    "required": "Yes",
+    "options": "27,28,29,30,31,32"
+  },
+  "15": {
+    "id": "15",
+    "module_id": "2",
+    "title": "Equipment Selection",
+    "question_text": "Users select images of the equipment they use",
+    "input_type": "photo_selection_multiple",
+    "required": "Yes",
+    "options": "33,34,35,36,37,38,39,40"
+  },
+  "16": {
+    "id": "16",
+    "module_id": "2",
+    "title": "Pain Assessment",
+    "question_text": "Do you experience pain or discomfort while working? Or do you have pain in your upper body (arms, shoulders, hands)?",
+    "input_type": "radio",
+    "required": "Yes",
+    "options": "41,42"
+  },
+  "17": {
+    "id": "17",
+    "module_id": "3",
+    "title": "Work Environment",
+    "question_text": "Users select their workplace setting",
+    "input_type": "photo_selection",
+    "required": "Yes",
+    "options": "43,44,45,46"
+  },
+  "18": {
+    "id": "18",
+    "module_id": "3",
+    "title": "Nature of Role",
+    "question_text": "Users define how they work with picture selection",
+    "input_type": "photo_selection",
+    "required": "Yes",
+    "options": "47,48"
+  },
+  "19": {
+    "id": "19",
+    "module_id": "3",
+    "title": "Pain Assessment",
+    "question_text": "Do you experience pain or discomfort due to standing or being on your feet? Or experience pain in upper body (arms, shoulders, hands?)",
+    "input_type": "radio",
+    "required": "Yes",
+    "options": "49,50"
+  },
+  "20": {
+    "id": "20",
+    "module_id": "4",
+    "title": "Vehicle Type",
+    "question_text": "Users select an image that best represents their current workspace setup",
+    "input_type": "photo_selection",
+    "required": "Yes",
+    "options": "51,52,53,54,55"
+  },
+  "21": {
+    "id": "21",
+    "module_id": "4",
+    "title": "Pain Assessment",
+    "question_text": "Do you experience pain or discomfort while working? Or do you have pain in your upper body (arms, shoulders, hands)?",
+    "input_type": "radio",
+    "required": "Yes",
+    "options": "56,57"
+  }
+}

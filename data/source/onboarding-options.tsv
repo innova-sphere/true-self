@@ -1,0 +1,58 @@
+id*	question_id*	option_text*	selection_type	discover_modules_shown	discover_modules_hidden
+1	7	Email	single		
+2	7	Phone	single		
+3	10	British Columbia	single		
+4	10	Alberta	single		
+5	10	Saskatchewan	single		
+6	10	Ontario	single		
+7	10	Quebec	single		
+8	10	New Brunswick	single		
+9	10	Nova Scotia	single		
+10	10	Prince Edward Island	single		
+11	10	Newfoundland and Labrador	single		
+12	10	Northwest Territories	single		
+13	10	Yukon	single		
+14	10	Nunavut	single		
+15	10	Other	single		
+16	11	Apple	single		
+17	11	Windows/PC	single		
+18	12	Guided audio exercises (e.g., mindfulness, breathwork)	multiple		
+19	12	Short educational videos on stress and emotion	multiple		
+20	12	Interactive self-reflection activities	multiple		
+21	12	Printable worksheets or planners	multiple		
+22	12	Regular wellbeing tips via email	multiple		
+23	12	Not sure yet, open to exploring options	multiple		
+24	13	Driving	single	3,4,5,6,7	1,2,8,9,10,11
+25	13	Sitting	single	8,9,10,11	1,2,3,4,5,6,7
+26	13	Standing	single	1,2	3,4,5,6,7,8,9,10,11
+27	14	Office Worker Setting (Traditional office setup – Not ergonomic)	single		
+28	14	Office Worker setting - Desk with Full Ergonomic Setup (Optimized workspace with desk, chair, and accessories)	single		
+29	14	At-Home Worker Setting (Remote work from home)	single		
+30	14	At-Home Worker Setting - Desk with Full Ergonomic Setup (Remote work from home - Optimized workspace with desk, chair, and accessories)	single		
+31	14	School Setting (Classroom or study area)	single		
+32	14	Couch with Laptop (Casual seating, not ergonomic)	single		
+33	15	Desktop or Laptop (Identifies primary computing device)	multiple		
+34	15	Chairs (Adjustable office chair vs. non-ergonomic seating)	multiple		
+35	15	Desks (Fixed-height vs. adjustable sit-stand desks)	multiple		
+36	15	Footrests (Indicates if user has foot support)	multiple		
+37	15	Headset (For audio clarity and posture support)	multiple		
+38	15	Keyboard Type (Standard vs. ergonomic keyboard)	multiple		
+39	15	Mouse Type (Standard mouse vs. ergonomic alternative)	multiple		
+40	15	Document Holder (Holds papers)	multiple		
+41	16	Yes	single		
+42	16	No	single		
+43	17	Restaurant (wait Staff & food preparation)	single		
+44	17	Retail	single		
+45	17	Factory	single		
+46	17	Other (Custom Selection)	single		
+47	18	Static Standing (ex: cashier, factory worker)	single	1	2,3,4,5,6,7,8,9,10,11
+48	18	Moving Around (ex: waitstaff, retail worker, machine operator)	single	2	1,3,4,5,6,7,8,9,10,11
+49	19	Yes	single		
+50	19	No	single		
+51	20	Short Haul Parcel Delivery & Courier Drivers (Amazon, UPS, FedEx)	single	3	1,2,4,5,6,7,8,9,10,11
+52	20	Long-Haul Truck Drivers (Transport operators)	single	4	1,2,3,5,6,7,8,9,10,11
+53	20	Bus & Public Transit Drivers	single	5	1,2,3,4,6,7,8,9,10,11
+54	20	Rideshare & Taxi Drivers	single	6	1,2,3,4,5,7,8,9,10,11
+55	20	Emergency Vehicle Drivers (Ambulance, Fire, Police)	single	7	1,2,3,4,5,6,8,9,10,11
+56	21	Yes	single		
+57	21	No	single		

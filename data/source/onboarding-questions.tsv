@@ -1,0 +1,22 @@
+id*	module_id*	title*	question_text*	input_type	required	options
+1	1	Email Address	Users enter their email address for account creation and verification	text_input_email	Yes	
+2	1	Email Confirmation	Users re-enter their email address to confirm accuracy	text_input_email_match	Yes	
+3	1	Password	Users create a secure password for their account	password_field	Yes	
+4	1	Password Confirmation	Users re-enter their password to confirm accuracy	password_field_match	Yes	
+5	1	Workplace Code	Users can optionally enter a workplace code if their organization is partnered with SPHERE	text_input_code	No	
+6	1	Phone Number	Users enter their phone number with country selection	international_phone	Yes	
+7	1	Preferred Communication Method	Users select how they prefer to be contacted	radio	Yes	1,2
+8	1	First Name	Users enter their first name for personalization	text_input	Yes	
+9	1	Last Name	Users enter their last name for personalization	text_input	Yes	
+10	1	Location/Province	Users select their location from a dropdown list	dropdown	Yes	3,4,5,6,7,8,9,10,11,12,13,14,15
+11	1	Operating System Preference	Users select their preferred operating system	radio	Yes	16,17
+12	1	Resources Format	Users select their preferred content format	checkbox	No	18,19,20,21,22,23
+13	1	Nature of Work	Users describe the nature of their work to help personalize their experience	photo_selection	Yes	24,25,26
+14	2	Work Environment	Users select an image that best represents their current workspace setup	photo_selection	Yes	27,28,29,30,31,32
+15	2	Equipment Selection	Users select images of the equipment they use	photo_selection_multiple	Yes	33,34,35,36,37,38,39,40
+16	2	Pain Assessment	Do you experience pain or discomfort while working? Or do you have pain in your upper body (arms, shoulders, hands)?	radio	Yes	41,42
+17	3	Work Environment	Users select their workplace setting	photo_selection	Yes	43,44,45,46
+18	3	Nature of Role	Users define how they work with picture selection	photo_selection	Yes	47,48
+19	3	Pain Assessment	Do you experience pain or discomfort due to standing or being on your feet? Or experience pain in upper body (arms, shoulders, hands?)	radio	Yes	49,50
+20	4	Vehicle Type	Users select an image that best represents their current workspace setup	photo_selection	Yes	51,52,53,54,55
+21	4	Pain Assessment	Do you experience pain or discomfort while working? Or do you have pain in your upper body (arms, shoulders, hands)?	radio	Yes	56,57

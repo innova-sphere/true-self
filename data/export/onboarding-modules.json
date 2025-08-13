@@ -1,0 +1,26 @@
+{
+  "1": {
+    "id": "1",
+    "name": "Essential",
+    "description": "Core account creation and personal information questions",
+    "questions": "1,2,3,4,5,6,7,8,9,10,11,12,13"
+  },
+  "2": {
+    "id": "2",
+    "name": "Sitting",
+    "description": "Work environment assessment for desk/seated workers",
+    "questions": "14,15,16"
+  },
+  "3": {
+    "id": "3",
+    "name": "Standing",
+    "description": "Work environment assessment for standing workers",
+    "questions": "17,18,19"
+  },
+  "4": {
+    "id": "4",
+    "name": "Driving",
+    "description": "Work environment assessment for professional drivers",
+    "questions": "20,21"
+  }
+}

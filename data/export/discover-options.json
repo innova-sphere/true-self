@@ -1,0 +1,1465 @@
+{
+  "1": {
+    "id": "1",
+    "title": "Yes, I have anti-fatigue matting",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "2": {
+    "id": "2",
+    "title": "No, I need anti-fatigue matting",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "1"
+  },
+  "3": {
+    "id": "3",
+    "title": "Yes, my footwear is supportive",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "4": {
+    "id": "4",
+    "title": "No, my footwear needs improvement",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "2"
+  },
+  "5": {
+    "id": "5",
+    "title": "Yes, I have seating options",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "6": {
+    "id": "6",
+    "title": "No, I need seating options",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "3"
+  },
+  "7": {
+    "id": "7",
+    "title": "Yes, I can adjust my work surface",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "8": {
+    "id": "8",
+    "title": "No, I need adjustable work surface",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "4"
+  },
+  "9": {
+    "id": "9",
+    "title": "Yes, I use footrail or footrest",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "10": {
+    "id": "10",
+    "title": "No, I need footrail or footrest",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "5"
+  },
+  "11": {
+    "id": "11",
+    "title": "Yes, items are within reach",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "12": {
+    "id": "12",
+    "title": "No, I need better workspace organization",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "6"
+  },
+  "13": {
+    "id": "13",
+    "title": "Yes, I can alternate tasks",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "14": {
+    "id": "14",
+    "title": "No, I need task rotation options",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "7"
+  },
+  "15": {
+    "id": "15",
+    "title": "Yes, I have replaced my shoes recently",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "16": {
+    "id": "16",
+    "title": "No, I need new work shoes",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "8"
+  },
+  "17": {
+    "id": "17",
+    "title": "Yes, my shoes fit well",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "18": {
+    "id": "18",
+    "title": "No, my shoes don't fit properly",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "9"
+  },
+  "19": {
+    "id": "19",
+    "title": "Yes, I have considered orthotics",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "20": {
+    "id": "20",
+    "title": "No, I need orthotics information",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "10"
+  },
+  "21": {
+    "id": "21",
+    "title": "Yes, I take regular breaks",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "22": {
+    "id": "22",
+    "title": "No, I need better break schedule",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "11"
+  },
+  "23": {
+    "id": "23",
+    "title": "Yes, my schedule allows adequate rest",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "24": {
+    "id": "24",
+    "title": "No, I need better shift scheduling",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "12"
+  },
+  "25": {
+    "id": "25",
+    "title": "Yes, I stretch regularly",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "26": {
+    "id": "26",
+    "title": "No, I need stretching routines",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "13"
+  },
+  "27": {
+    "id": "27",
+    "title": "Yes, I use proper lifting techniques",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "28": {
+    "id": "28",
+    "title": "No, I need lifting technique training",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "14"
+  },
+  "29": {
+    "id": "29",
+    "title": "Yes, I use mechanical aids",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "30": {
+    "id": "30",
+    "title": "No, I need access to mechanical aids",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "15"
+  },
+  "31": {
+    "id": "31",
+    "title": "Yes, I carry trays properly",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "32": {
+    "id": "32",
+    "title": "No, I need tray carrying technique training",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "16"
+  },
+  "33": {
+    "id": "33",
+    "title": "Yes, I have proper vehicle clearance",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "34": {
+    "id": "34",
+    "title": "No, I need vehicle ergonomic adjustment",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "17"
+  },
+  "35": {
+    "id": "35",
+    "title": "Yes, my lifting causes strain",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "18"
+  },
+  "36": {
+    "id": "36",
+    "title": "No, my lifting doesn't cause strain",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "37": {
+    "id": "37",
+    "title": "Yes, I have enough headroom and seat depth",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "38": {
+    "id": "38",
+    "title": "No, I need better seat design",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "19"
+  },
+  "39": {
+    "id": "39",
+    "title": "Yes, my headrest is properly adjusted",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "40": {
+    "id": "40",
+    "title": "No, I need headrest adjustment",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "20"
+  },
+  "41": {
+    "id": "41",
+    "title": "Yes, I have proper vehicle clearance",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "42": {
+    "id": "42",
+    "title": "No, I need vehicle ergonomic adjustment",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "21"
+  },
+  "43": {
+    "id": "43",
+    "title": "Yes, my seat is comfortable for hours",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "44": {
+    "id": "44",
+    "title": "No, I need better seat comfort",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "22"
+  },
+  "45": {
+    "id": "45",
+    "title": "Yes, my headrest is properly adjusted",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "46": {
+    "id": "46",
+    "title": "No, I need headrest adjustment",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "23"
+  },
+  "47": {
+    "id": "47",
+    "title": "Yes, I feel stiff, drowsy, or mentally foggy",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "24"
+  },
+  "48": {
+    "id": "48",
+    "title": "No, I don't experience fatigue issues",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "49": {
+    "id": "49",
+    "title": "Yes, I feel shoulder or arm strain",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "25"
+  },
+  "50": {
+    "id": "50",
+    "title": "No, I don't experience arm strain",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "51": {
+    "id": "51",
+    "title": "Yes, I have proper vehicle clearance",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "52": {
+    "id": "52",
+    "title": "No, I need vehicle ergonomic adjustment",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "26"
+  },
+  "53": {
+    "id": "53",
+    "title": "Yes, I have enough headroom and seat depth",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "54": {
+    "id": "54",
+    "title": "No, I need better seat design",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "27"
+  },
+  "55": {
+    "id": "55",
+    "title": "Yes, my headrest is properly adjusted",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "56": {
+    "id": "56",
+    "title": "No, I need headrest adjustment",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "28"
+  },
+  "57": {
+    "id": "57",
+    "title": "Yes, my seat is comfortable for hours",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "58": {
+    "id": "58",
+    "title": "No, I need better seat comfort",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "29"
+  },
+  "59": {
+    "id": "59",
+    "title": "Yes, I have proper vehicle clearance",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "60": {
+    "id": "60",
+    "title": "No, I need vehicle ergonomic adjustment",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "30"
+  },
+  "61": {
+    "id": "61",
+    "title": "Yes, my headrest is properly adjusted",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "62": {
+    "id": "62",
+    "title": "No, I need headrest adjustment",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "31"
+  },
+  "63": {
+    "id": "63",
+    "title": "Yes, I wait until something hurts",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "32"
+  },
+  "64": {
+    "id": "64",
+    "title": "No, I make adjustments proactively",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "65": {
+    "id": "65",
+    "title": "Yes, I have proper vehicle clearance",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "66": {
+    "id": "66",
+    "title": "No, I need vehicle ergonomic adjustment",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "33"
+  },
+  "67": {
+    "id": "67",
+    "title": "Yes, my headrest is properly adjusted",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "68": {
+    "id": "68",
+    "title": "No, I need headrest adjustment",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "34"
+  },
+  "69": {
+    "id": "69",
+    "title": "Yes, I have enough headroom and seat depth",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "70": {
+    "id": "70",
+    "title": "No, I need better seat design",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "35"
+  },
+  "71": {
+    "id": "71",
+    "title": "Yes, I wait until something hurts",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "36"
+  },
+  "72": {
+    "id": "72",
+    "title": "No, I make adjustments proactively",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "73": {
+    "id": "73",
+    "title": "Yes, my chair allows proper height adjustment",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "74": {
+    "id": "74",
+    "title": "No, my chair is too short",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "37"
+  },
+  "75": {
+    "id": "75",
+    "title": "No, my chair is too high",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "38"
+  },
+  "76": {
+    "id": "76",
+    "title": "Yes, I can adjust my desk height",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "77": {
+    "id": "77",
+    "title": "No, my desk is too low",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "39"
+  },
+  "78": {
+    "id": "78",
+    "title": "No, my desk is too high",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "40"
+  },
+  "79": {
+    "id": "79",
+    "title": "Yes, I can change my physical workspace",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "41"
+  },
+  "80": {
+    "id": "80",
+    "title": "No, but I can use personal noise-cancellation tools",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "42"
+  },
+  "81": {
+    "id": "81",
+    "title": "No, but office etiquette guidelines could help",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "43"
+  },
+  "82": {
+    "id": "82",
+    "title": "No, but remote work options are available",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "44"
+  },
+  "83": {
+    "id": "83",
+    "title": "I need a number pad for calculations",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "57"
+  },
+  "84": {
+    "id": "84",
+    "title": "I experience wrist strain while typing",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "58"
+  },
+  "85": {
+    "id": "85",
+    "title": "I prefer natural hand positioning",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "59"
+  },
+  "86": {
+    "id": "86",
+    "title": "I need a space-saving keyboard",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "60"
+  },
+  "87": {
+    "id": "87",
+    "title": "I prefer wireless connectivity",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "61"
+  },
+  "88": {
+    "id": "88",
+    "title": "I prefer wired connectivity",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "62"
+  },
+  "89": {
+    "id": "89",
+    "title": "I experience wrist strain with my current mouse",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "63"
+  },
+  "90": {
+    "id": "90",
+    "title": "I am left-handed",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "64"
+  },
+  "91": {
+    "id": "91",
+    "title": "I prefer a stable wired connection",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "65"
+  },
+  "92": {
+    "id": "92",
+    "title": "I prefer wireless flexibility",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "66"
+  },
+  "93": {
+    "id": "93",
+    "title": "Yes, I experience neck strain during calls",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "67"
+  },
+  "94": {
+    "id": "94",
+    "title": "No, I don't experience phone-related strain",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "95": {
+    "id": "95",
+    "title": "Yes, my cables need better organization",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "68"
+  },
+  "96": {
+    "id": "96",
+    "title": "No, I am 100% wireless",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "97": {
+    "id": "97",
+    "title": "No, my cables aren't causing issues",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "98": {
+    "id": "98",
+    "title": "Yes, I experience neck strain from documents",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "69"
+  },
+  "99": {
+    "id": "99",
+    "title": "No, I don't experience document-related strain",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "100": {
+    "id": "100",
+    "title": "I need a larger external monitor",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "70"
+  },
+  "101": {
+    "id": "101",
+    "title": "I need a secondary monitor to reduce tab switching",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "71"
+  },
+  "102": {
+    "id": "102",
+    "title": "I need more than two monitors for complex workflows",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "72"
+  },
+  "103": {
+    "id": "103",
+    "title": "My current single monitor setup works fine",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "104": {
+    "id": "104",
+    "title": "I often work for long periods without taking breaks",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "45"
+  },
+  "105": {
+    "id": "105",
+    "title": "I take short, frequent breaks to recharge",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "46"
+  },
+  "106": {
+    "id": "106",
+    "title": "I need longer breaks to refresh and refocus",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "47"
+  },
+  "107": {
+    "id": "107",
+    "title": "I feel guilty about taking breaks",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "48"
+  },
+  "108": {
+    "id": "108",
+    "title": "None of the above",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "109": {
+    "id": "109",
+    "title": "I frequently experience eye strain while using screens",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "49"
+  },
+  "110": {
+    "id": "110",
+    "title": "I notice myself blinking less while using screens",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "50"
+  },
+  "111": {
+    "id": "111",
+    "title": "My workspace is dimly lit, making it harder to focus",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "51"
+  },
+  "112": {
+    "id": "112",
+    "title": "I experience headaches after prolonged screen use",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "52"
+  },
+  "113": {
+    "id": "113",
+    "title": "None of the above",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "114": {
+    "id": "114",
+    "title": "I sit under fluorescent lights",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "53"
+  },
+  "115": {
+    "id": "115",
+    "title": "I don't have adequate task lighting",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "54"
+  },
+  "116": {
+    "id": "116",
+    "title": "I sit by a window with glare issues",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "55"
+  },
+  "117": {
+    "id": "117",
+    "title": "I wear glasses and experience light sensitivity",
+    "education_title": "",
+    "disables_checkboxes": "FALSE",
+    "recommendations": "56"
+  },
+  "118": {
+    "id": "118",
+    "title": "None of the above",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "363": {
+    "id": "363",
+    "title": "Written or paper-printed materials",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "173"
+  },
+  "364": {
+    "id": "364",
+    "title": "Web/computer-based text",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "175"
+  },
+  "365": {
+    "id": "365",
+    "title": "I have poor eyesight or am visually impaired",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "250,176"
+  },
+  "366": {
+    "id": "366",
+    "title": "I often skip or miss words",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "177"
+  },
+  "367": {
+    "id": "367",
+    "title": "I have difficulty with spelling and grammar",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "178"
+  },
+  "368": {
+    "id": "368",
+    "title": "I have hand or wrist pain while typing",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "179"
+  },
+  "369": {
+    "id": "369",
+    "title": "I have issues putting thoughts into written words",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "180"
+  },
+  "370": {
+    "id": "370",
+    "title": "I'm good with writing, no concerns",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "371": {
+    "id": "371",
+    "title": "I find it hard to organize my notes",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "181"
+  },
+  "372": {
+    "id": "372",
+    "title": "I need to take notes quickly",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "182"
+  },
+  "373": {
+    "id": "373",
+    "title": "I'm too slow at taking notes",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "183"
+  },
+  "374": {
+    "id": "374",
+    "title": "I'm challenged with taking notes at work or in class",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "184"
+  },
+  "375": {
+    "id": "375",
+    "title": "Spelling and grammar are my challenges",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "185"
+  },
+  "376": {
+    "id": "376",
+    "title": "I'm good with note-taking, no concerns",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "377": {
+    "id": "377",
+    "title": "I need to improve my typing speed and accuracy",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "186"
+  },
+  "378": {
+    "id": "378",
+    "title": "I make mistakes while typing",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "187"
+  },
+  "379": {
+    "id": "379",
+    "title": "I have hand or wrist pain while typing",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "188"
+  },
+  "380": {
+    "id": "380",
+    "title": "I'm good with typing, no concerns",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "389": {
+    "id": "389",
+    "title": "Contributes to my anxiety",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "192"
+  },
+  "390": {
+    "id": "390",
+    "title": "Does not contribute to my anxiety",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": ""
+  },
+  "391": {
+    "id": "391",
+    "title": "In-person work environment",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "208"
+  },
+  "392": {
+    "id": "392",
+    "title": "In a hybrid work environment",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "209"
+  },
+  "393": {
+    "id": "393",
+    "title": "In a remote work environment",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "210"
+  },
+  "394": {
+    "id": "394",
+    "title": "Before, during, or after meetings",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "211"
+  },
+  "395": {
+    "id": "395",
+    "title": "During team-based work",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "212"
+  },
+  "396": {
+    "id": "396",
+    "title": "When working independently",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "213"
+  },
+  "397": {
+    "id": "397",
+    "title": "Rarely",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "214"
+  },
+  "398": {
+    "id": "398",
+    "title": "Occasionally",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "215"
+  },
+  "399": {
+    "id": "399",
+    "title": "Frequently",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "216"
+  },
+  "400": {
+    "id": "400",
+    "title": "In the morning",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "217"
+  },
+  "401": {
+    "id": "401",
+    "title": "In the afternoon",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "218"
+  },
+  "402": {
+    "id": "402",
+    "title": "In the evening",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "219"
+  },
+  "403": {
+    "id": "403",
+    "title": "Rarely",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "205"
+  },
+  "404": {
+    "id": "404",
+    "title": "Occasionally",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "206"
+  },
+  "405": {
+    "id": "405",
+    "title": "Frequently",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "207"
+  },
+  "406": {
+    "id": "406",
+    "title": "In-person work environment",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "193"
+  },
+  "407": {
+    "id": "407",
+    "title": "In a hybrid work environment",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "194"
+  },
+  "408": {
+    "id": "408",
+    "title": "In a remote work environment",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "195"
+  },
+  "409": {
+    "id": "409",
+    "title": "Before, during, or after meetings",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "196"
+  },
+  "410": {
+    "id": "410",
+    "title": "During team-based work",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "197"
+  },
+  "411": {
+    "id": "411",
+    "title": "When working independently",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "198"
+  },
+  "412": {
+    "id": "412",
+    "title": "Rarely",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "199"
+  },
+  "413": {
+    "id": "413",
+    "title": "Occasionally",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "200"
+  },
+  "414": {
+    "id": "414",
+    "title": "Frequently",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "201"
+  },
+  "415": {
+    "id": "415",
+    "title": "In the morning",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "202"
+  },
+  "416": {
+    "id": "416",
+    "title": "In the afternoon",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "203"
+  },
+  "417": {
+    "id": "417",
+    "title": "In the evening",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "204"
+  },
+  "418": {
+    "id": "418",
+    "title": "Text and email distractions",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "220"
+  },
+  "419": {
+    "id": "419",
+    "title": "Conversations",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "221"
+  },
+  "420": {
+    "id": "420",
+    "title": "A cluttered workspace",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "222"
+  },
+  "421": {
+    "id": "421",
+    "title": "Feeling overwhelmed",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "223"
+  },
+  "422": {
+    "id": "422",
+    "title": "Lack of focus",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "224"
+  },
+  "423": {
+    "id": "423",
+    "title": "None of these",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "424": {
+    "id": "424",
+    "title": "I procrastinate",
+    "education_title": "I delay or put off tasks to the last minute",
+    "disables_checkboxes": "",
+    "recommendations": "225"
+  },
+  "425": {
+    "id": "425",
+    "title": "I experience tasks as boring, difficult, or uninteresting",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "226"
+  },
+  "426": {
+    "id": "426",
+    "title": "I strive for perfection",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "227"
+  },
+  "427": {
+    "id": "427",
+    "title": "I find tasks too difficult or complex",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "228"
+  },
+  "428": {
+    "id": "428",
+    "title": "I leave work to the last minute",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "229"
+  },
+  "429": {
+    "id": "429",
+    "title": "I'm good with time management",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "430": {
+    "id": "430",
+    "title": "I lose track of goals and priorities",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "230"
+  },
+  "431": {
+    "id": "431",
+    "title": "I lose focus on what to do",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "231"
+  },
+  "432": {
+    "id": "432",
+    "title": "I'm scattered about what to do and when",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "232"
+  },
+  "433": {
+    "id": "433",
+    "title": "I'm unsure what the most important task is",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "233"
+  },
+  "434": {
+    "id": "434",
+    "title": "I find I'm more productive at different times of the day",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "234"
+  },
+  "435": {
+    "id": "435",
+    "title": "I forget tasks or deadlines",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "235"
+  },
+  "436": {
+    "id": "436",
+    "title": "I leave tasks to the last minute",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "236"
+  },
+  "437": {
+    "id": "437",
+    "title": "I want to be more reliable and responsible",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "237"
+  },
+  "438": {
+    "id": "438",
+    "title": "I experience stress and anxiety",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "238"
+  },
+  "439": {
+    "id": "439",
+    "title": "I'm good with this",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "440": {
+    "id": "440",
+    "title": "I'm not sure \"why\" I am not motivated",
+    "education_title": "",
+    "disables_checkboxes": "",
+    "recommendations": "239"
+  },
+  "441": {
+    "id": "441",
+    "title": "I don't know how to set motivational goals",
+    "education_title": "I don't know how to set motivational goals",
+    "disables_checkboxes": "",
+    "recommendations": "240"
+  },
+  "442": {
+    "id": "442",
+    "title": "I don't know how to reward myself",
+    "education_title": "I don't know how to reward myself",
+    "disables_checkboxes": "",
+    "recommendations": "241,242,243"
+  },
+  "443": {
+    "id": "443",
+    "title": "I'm good with this",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "444": {
+    "id": "444",
+    "title": "I have challenges relaxing mentally",
+    "education_title": "I struggle to relax my mind",
+    "disables_checkboxes": "",
+    "recommendations": "244"
+  },
+  "445": {
+    "id": "445",
+    "title": "I have challenges relaxing physically",
+    "education_title": "I struggle to relax my body",
+    "disables_checkboxes": "",
+    "recommendations": "245"
+  },
+  "446": {
+    "id": "446",
+    "title": "I am stressed about my relationships",
+    "education_title": "I am stressed about my relationships",
+    "disables_checkboxes": "",
+    "recommendations": "246"
+  },
+  "447": {
+    "id": "447",
+    "title": "I'm good with this",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "448": {
+    "id": "448",
+    "title": "None of the above",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "452": {
+    "id": "452",
+    "title": "I'm good with reading",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "453": {
+    "id": "453",
+    "title": "No issues with either",
+    "education_title": "",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "454": {
+    "id": "454",
+    "title": "Mark as Read",
+    "education_title": "Mark as Read",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "455": {
+    "id": "455",
+    "title": "Mark as Read",
+    "education_title": "Mark as Read",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "456": {
+    "id": "456",
+    "title": "Mark as Read",
+    "education_title": "Mark as Read",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "457": {
+    "id": "457",
+    "title": "Mark as Read",
+    "education_title": "Mark as Read",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "458": {
+    "id": "458",
+    "title": "Mark as Read",
+    "education_title": "Mark as Read",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "459": {
+    "id": "459",
+    "title": "Mark as Read",
+    "education_title": "Mark as Read",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "460": {
+    "id": "460",
+    "title": "Mark as Read",
+    "education_title": "Mark as Read",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "461": {
+    "id": "461",
+    "title": "Mark as Read",
+    "education_title": "Mark as Read",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "462": {
+    "id": "462",
+    "title": "Mark as Read",
+    "education_title": "Mark as Read",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "463": {
+    "id": "463",
+    "title": "Mark as Read",
+    "education_title": "Mark as Read",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  },
+  "464": {
+    "id": "464",
+    "title": "Mark as Read",
+    "education_title": "Mark as Read",
+    "disables_checkboxes": "TRUE",
+    "recommendations": ""
+  }
+}

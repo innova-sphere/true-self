@@ -1,0 +1,81 @@
+id*	title*	description*	question_type	options	education_title	education_description
+1	Flooring Support	Do you have an anti-fatigue mat or slip-resistant flooring at your workstation?	Yes/No	1,2		
+2	Footwear	Is your footwear supportive and comfortable for prolonged standing?	Yes/No	3,4		
+3	Seating Options	Do you have access to a chair or stool to alternate between sitting and standing?	Yes/No	5,6		
+4	Adjustable Work Surface	Can you adjust your work surface to fit your height and allow position changes?	Yes/No	7,8		
+5	Footrail or Footrest	Do you use a footrail or footrest to shift weight while standing?	Yes/No	9,10		
+6	Optimal Work Setup	Are commonly used items within easy reach, avoiding overextending? OR do you experience pain and discomfort in upper body such as shoulders, back, or arms?	Yes/No	11,12		
+7	Task Rotation	Can you alternate between tasks to reduce repetitive motions?	Yes/No	13,14		
+8	New Shoes	Have you replaced your work shoes recently?	Yes/No	15,16		
+9	Proper Fit	Do your shoes fit well with enough room for toe movement?	Yes/No	17,18		
+10	Added Support	Have you considered orthotics or insoles for additional support?	Yes/No	19,20		
+11	Breaks	Do you take regular breaks to sit and rest your feet?	Yes/No	21,22		
+12	Shift Scheduling	Does your schedule allow for adequate rest between shifts?	Yes/No	23,24		
+13	Stretching Routines	Do you stretch regularly throughout your shift?	Yes/No	25,26		
+14	Lifting & Carrying	Do you use proper lifting techniques when carrying items?	Yes/No	27,28		
+15	Use of Mechanical Aids	Do you use carts or mechanical aids to move heavy items?	Yes/No	29,30		
+16	Tray Carrying Technique	Do you carry trays close to your body using both hands?	Yes/No	31,32		
+17	Seat Positioning, Steering Distance & Rapid Entry/Exit	Do you have proper clearance from the steering wheel and enough room to comfortably operate the pedals?	Yes/No	33,34		
+18	Lifting and Package Handling	Do your daily lifting routines cause strain on your back, knees, or shoulders?	Yes/No	35,36		
+19	Headroom and Seat Design	Do you have enough headroom and seat depth to stay comfortable throughout your shift?	Yes/No	37,38		
+20	Neck Support and Whiplash Collision Protection	Is your headrest properly adjusted for maximum safety in case of a rear-end collision?	Yes/No	39,40		
+21	Seat Positioning, Steering Distance & Rapid Entry/Exit	Do you have proper clearance from the steering wheel and enough room to comfortably operate the pedals?	Yes/No	41,42		
+22	Seat Comfort, Circulation & Posture	Is your seat comfortable enough to sit for hours without pressure points or numbness?	Yes/No	43,44		
+23	Neck Support and Whiplash Collision Protection	Is your headrest properly adjusted for maximum safety in case of a rear-end collision?	Yes/No	45,46		
+24	General Alertness and Fatigue Prevention	Do you feel stiff, drowsy, or mentally foggy during long stretches of driving?	Yes/No	47,48		
+25	Steering Reach and Arm Support	Do you feel shoulder or arm strain after hours of driving?	Yes/No	49,50		
+26	Seat Positioning, Steering Distance & Rapid Entry/Exit	Do you have proper clearance from the steering wheel and enough room to comfortably operate the pedals?	Yes/No	51,52		
+27	Headroom and Seat Design	Do you have enough headroom and seat depth to stay comfortable throughout your shift?	Yes/No	53,54		
+28	Neck Support and Whiplash Collision Protection	Is your headrest properly adjusted for maximum safety in case of a rear-end collision?	Yes/No	55,56		
+29	Seat Comfort, Circulation & Posture	Is your seat comfortable enough to sit for hours without pressure points or numbness?	Yes/No	57,58		
+30	Seat Positioning, Steering Distance & Rapid Entry/Exit	Do you have proper clearance from the steering wheel and enough room to comfortably operate the pedals?	Yes/No	59,60		
+31	Neck Support and Whiplash Collision Protection	Is your headrest properly adjusted for maximum safety in case of a rear-end collision?	Yes/No	61,62		
+32	Ignoring Early Discomfort or Warning Signs	Do you wait until something hurts to make an adjustment?	Yes/No	63,64		
+33	Seat Positioning, Steering Distance & Rapid Entry/Exit	Do you have proper clearance from the steering wheel and enough room to comfortably operate the pedals?	Yes/No	65,66		
+34	Neck Support and Whiplash Collision Protection	Is your headrest properly adjusted for maximum safety in case of a rear-end collision?	Yes/No	67,68		
+35	Headroom and Seat Design	Do you have enough headroom and seat depth to stay comfortable throughout your shift?	Yes/No	69,70		
+36	Ignoring Early Discomfort or Warning Signs	Do you wait until something hurts to make an adjustment?	Yes/No	71,72		
+37	Chair Height Adjustment	Does your chair allow proper height adjustment so your knees are bent at 90° with feet flat on the floor?	Multiple Choice	73,74,75		
+38	Desk Height Adjustment	Can you adjust your desk height to ensure that your face is at eye level with your screen?	Multiple Choice	76,77,78		
+39	Workspace Noise Control	Can you change your physical workspace to help reduce noise and distractions?	Multiple Choice	79,80,81,82		
+40	Keyboard Type Selection	What type of keyboard would best suit your work needs?	Multiple Choice	83,84,85,86,87,88		
+41	Mouse Type Selection	What type of mouse would best address your ergonomic needs?	Multiple Choice	89,90,91,92		
+42	Phone/Headset Usage	Do you frequently hold a phone to your ear for extended periods or experience neck strain during calls?	Yes/No	93,94		
+43	Cable Organization	Do you have cables around your desk area that could use better organization?	Multiple Choice	95,96,97		
+44	Document Referencing	Do you frequently reference physical documents while working on a computer, causing neck strain from looking up and down?	Yes/No	98,99		
+45	External Monitor Needs	What is your current monitor setup and productivity needs?	Multiple Choice	100,101,102,103		
+46	Break Habits	Which statement best describes your break-taking habits?	Multiple Choice	104,105,106,107,108		
+47	Eye Strain Management	Which statement best describes your eye health needs?	Multiple Choice	109,110,111,112,113		
+48	Lighting Conditions	Which lighting condition affects you most?	Multiple Choice	114,115,116,117,118		
+193	Concentration Disruptions	Do any of these disrupt your concentration at work?	checklist	418,419,420,421,422,200	Do any of these disrupt your concentration?	
+194	Time Management Challenges	Are you challenged with getting things done on time, managing your time, and reducing procrastination?	checklist	424,425,426,427,428,200	Do you stuggle with getting things done on time, managing your time, or reducing procrastination?	
+195	Productivity Strategies	Let's explore specific strategies to address your challenges.	checklist	430,431,432,433,434		
+196	Information and Deadline Tracking	Are you challenged with keeping track of important information and deadlines?	checklist	435,436,437,438,439	Do you struggle to keep track of important information and deadlines?	
+197	Work Motivation	Are you challenged with staying motivated at work?	checklist	440,441,442,443	Do you struggle with staying motivated at work	
+198	Work Stress	Are you challenged with stress at work?	checklist	444,445,446,447	Do you experience stress at work or school?	
+199	Reading Medium Challenges	Do you have any challenges with what you read on?	checklist	363,364,452		
+200	General Reading Challenges	Do you have any challenges with reading in general?	checklist	365,366,453		
+201	Writing Challenges	Do you experience challenges when writing?	checklist	367,368,369,370	Do you experience any difficulty with writing?	
+202	Note-Taking Difficulties	Do you have difficulty taking notes?	checklist	371,372,373,374,375,376		
+203	Typing Challenges	Do you experience typing challenges?	checklist	377,378,379,380	Do you have difficulty typing?	
+204	Work Environment Anxiety	I feel my work environment:	radio	389,390		
+205	Stress Environments	In which work environments do you experience stress?	checklist	391,392,393	In which focus environments do you experience stress?	
+206	Stress Timing at Work	At what points during your work do you experience stress?	checklist	394,395,396	At what points during your day do you experience stress?	
+207	Stress Frequency	How frequently do you experience stress at work?	checklist	397,398,399	How frequently do you experience stress?	
+208	Daily Stress Timing	At what time of day do you experience stress most often?	checklist	400,401,402		
+209	Anxiety Environments	In which work environments do you experience anxiety?	checklist	406,407,408	In which focus environments do you experience anxiety?	
+210	Anxiety Timing at Work	At what points during your work do you experience anxiety?	checklist	409,410,411	At what points during your day do you experience anxiety?	
+211	Anxiety Frequency	How frequently do you experience anxiety at work?	checklist	412,413,414	How frequently do you experience anxiety?	
+212	Daily Anxiety Timing	At what time of day do you experience anxiety most often?	checklist	415,416,417		
+213	Break Frequency	How often do you take breaks at work?	checklist	403,404,405	How often do you take breaks?	
+214	Static Standing Best Practices	Review essential best practices for static standing environments	informational	454		
+215	Moving & Walking Best Practices	Review essential best practices for moving and walking environments	informational	455		
+216	Parcel Delivery Best Practices	Review essential best practices for parcel delivery and courier drivers	informational	456		
+217	Long Haul Best Practices	Review essential best practices for long haul truck drivers	informational	457		
+218	Bus & Transit Best Practices	Review essential best practices for bus and public transit drivers	informational	458		
+219	Rideshare & Taxi Best Practices	Review essential best practices for rideshare and taxi drivers	informational	459		
+220	Emergency Vehicle Best Practices	Review essential best practices for emergency vehicle drivers	informational	460		
+221	Workplace Adjustments Best Practices	Review essential best practices for workplace adjustments	informational	461		
+222	Input & Interaction Best Practices	Review essential best practices for input and interaction ergonomics	informational	462		
+223	Document & Screen Best Practices	Review essential best practices for document and screen positioning	informational	463		
+224	Fatigue & Wellness Best Practices	Review essential best practices for fatigue and wellness strategies	informational	464		

@@ -1,0 +1,210 @@
+id*	title*	education_title	disables_checkboxes	recommendations
+1	Yes, I have anti-fatigue matting		TRUE	
+2	No, I need anti-fatigue matting		FALSE	1
+3	Yes, my footwear is supportive		TRUE	
+4	No, my footwear needs improvement		FALSE	2
+5	Yes, I have seating options		TRUE	
+6	No, I need seating options		FALSE	3
+7	Yes, I can adjust my work surface		TRUE	
+8	No, I need adjustable work surface		FALSE	4
+9	Yes, I use footrail or footrest		TRUE	
+10	No, I need footrail or footrest		FALSE	5
+11	Yes, items are within reach		TRUE	
+12	No, I need better workspace organization		FALSE	6
+13	Yes, I can alternate tasks		TRUE	
+14	No, I need task rotation options		FALSE	7
+15	Yes, I have replaced my shoes recently		TRUE	
+16	No, I need new work shoes		FALSE	8
+17	Yes, my shoes fit well		TRUE	
+18	No, my shoes don't fit properly		FALSE	9
+19	Yes, I have considered orthotics		TRUE	
+20	No, I need orthotics information		FALSE	10
+21	Yes, I take regular breaks		TRUE	
+22	No, I need better break schedule		FALSE	11
+23	Yes, my schedule allows adequate rest		TRUE	
+24	No, I need better shift scheduling		FALSE	12
+25	Yes, I stretch regularly		TRUE	
+26	No, I need stretching routines		FALSE	13
+27	Yes, I use proper lifting techniques		TRUE	
+28	No, I need lifting technique training		FALSE	14
+29	Yes, I use mechanical aids		TRUE	
+30	No, I need access to mechanical aids		FALSE	15
+31	Yes, I carry trays properly		TRUE	
+32	No, I need tray carrying technique training		FALSE	16
+33	Yes, I have proper vehicle clearance		TRUE	
+34	No, I need vehicle ergonomic adjustment		FALSE	17
+35	Yes, my lifting causes strain		FALSE	18
+36	No, my lifting doesn't cause strain		TRUE	
+37	Yes, I have enough headroom and seat depth		TRUE	
+38	No, I need better seat design		FALSE	19
+39	Yes, my headrest is properly adjusted		TRUE	
+40	No, I need headrest adjustment		FALSE	20
+41	Yes, I have proper vehicle clearance		TRUE	
+42	No, I need vehicle ergonomic adjustment		FALSE	21
+43	Yes, my seat is comfortable for hours		TRUE	
+44	No, I need better seat comfort		FALSE	22
+45	Yes, my headrest is properly adjusted		TRUE	
+46	No, I need headrest adjustment		FALSE	23
+47	Yes, I feel stiff, drowsy, or mentally foggy		FALSE	24
+48	No, I don't experience fatigue issues		TRUE	
+49	Yes, I feel shoulder or arm strain		FALSE	25
+50	No, I don't experience arm strain		TRUE	
+51	Yes, I have proper vehicle clearance		TRUE	
+52	No, I need vehicle ergonomic adjustment		FALSE	26
+53	Yes, I have enough headroom and seat depth		TRUE	
+54	No, I need better seat design		FALSE	27
+55	Yes, my headrest is properly adjusted		TRUE	
+56	No, I need headrest adjustment		FALSE	28
+57	Yes, my seat is comfortable for hours		TRUE	
+58	No, I need better seat comfort		FALSE	29
+59	Yes, I have proper vehicle clearance		TRUE	
+60	No, I need vehicle ergonomic adjustment		FALSE	30
+61	Yes, my headrest is properly adjusted		TRUE	
+62	No, I need headrest adjustment		FALSE	31
+63	Yes, I wait until something hurts		FALSE	32
+64	No, I make adjustments proactively		TRUE	
+65	Yes, I have proper vehicle clearance		TRUE	
+66	No, I need vehicle ergonomic adjustment		FALSE	33
+67	Yes, my headrest is properly adjusted		TRUE	
+68	No, I need headrest adjustment		FALSE	34
+69	Yes, I have enough headroom and seat depth		TRUE	
+70	No, I need better seat design		FALSE	35
+71	Yes, I wait until something hurts		FALSE	36
+72	No, I make adjustments proactively		TRUE	
+73	Yes, my chair allows proper height adjustment		TRUE	
+74	No, my chair is too short		FALSE	37
+75	No, my chair is too high		FALSE	38
+76	Yes, I can adjust my desk height		TRUE	
+77	No, my desk is too low		FALSE	39
+78	No, my desk is too high		FALSE	40
+79	Yes, I can change my physical workspace		FALSE	41
+80	No, but I can use personal noise-cancellation tools		FALSE	42
+81	No, but office etiquette guidelines could help		FALSE	43
+82	No, but remote work options are available		FALSE	44
+83	I need a number pad for calculations		FALSE	57
+84	I experience wrist strain while typing		FALSE	58
+85	I prefer natural hand positioning		FALSE	59
+86	I need a space-saving keyboard		FALSE	60
+87	I prefer wireless connectivity		FALSE	61
+88	I prefer wired connectivity		FALSE	62
+89	I experience wrist strain with my current mouse		FALSE	63
+90	I am left-handed		FALSE	64
+91	I prefer a stable wired connection		FALSE	65
+92	I prefer wireless flexibility		FALSE	66
+93	Yes, I experience neck strain during calls		FALSE	67
+94	No, I don't experience phone-related strain		TRUE	
+95	Yes, my cables need better organization		FALSE	68
+96	No, I am 100% wireless		TRUE	
+97	No, my cables aren't causing issues		TRUE	
+98	Yes, I experience neck strain from documents		FALSE	69
+99	No, I don't experience document-related strain		TRUE	
+100	I need a larger external monitor		FALSE	70
+101	I need a secondary monitor to reduce tab switching		FALSE	71
+102	I need more than two monitors for complex workflows		FALSE	72
+103	My current single monitor setup works fine		TRUE	
+104	I often work for long periods without taking breaks		FALSE	45
+105	I take short, frequent breaks to recharge		FALSE	46
+106	I need longer breaks to refresh and refocus		FALSE	47
+107	I feel guilty about taking breaks		FALSE	48
+108	None of the above		TRUE	
+109	I frequently experience eye strain while using screens		FALSE	49
+110	I notice myself blinking less while using screens		FALSE	50
+111	My workspace is dimly lit, making it harder to focus		FALSE	51
+112	I experience headaches after prolonged screen use		FALSE	52
+113	None of the above		TRUE	
+114	I sit under fluorescent lights		FALSE	53
+115	I don't have adequate task lighting		FALSE	54
+116	I sit by a window with glare issues		FALSE	55
+117	I wear glasses and experience light sensitivity		FALSE	56
+118	None of the above		TRUE	
+363	Written or paper-printed materials			173
+364	Web/computer-based text			175
+365	I have poor eyesight or am visually impaired			250,176
+366	I often skip or miss words			177
+367	I have difficulty with spelling and grammar			178
+368	I have hand or wrist pain while typing			179
+369	I have issues putting thoughts into written words			180
+370	I'm good with writing, no concerns		TRUE	
+371	I find it hard to organize my notes			181
+372	I need to take notes quickly			182
+373	I'm too slow at taking notes			183
+374	I'm challenged with taking notes at work or in class			184
+375	Spelling and grammar are my challenges			185
+376	I'm good with note-taking, no concerns		TRUE	
+377	I need to improve my typing speed and accuracy			186
+378	I make mistakes while typing			187
+379	I have hand or wrist pain while typing			188
+380	I'm good with typing, no concerns		TRUE	
+389	Contributes to my anxiety			192
+390	Does not contribute to my anxiety			
+391	In-person work environment			208
+392	In a hybrid work environment			209
+393	In a remote work environment			210
+394	Before, during, or after meetings			211
+395	During team-based work			212
+396	When working independently			213
+397	Rarely			214
+398	Occasionally			215
+399	Frequently			216
+400	In the morning			217
+401	In the afternoon			218
+402	In the evening			219
+403	Rarely			205
+404	Occasionally			206
+405	Frequently			207
+406	In-person work environment			193
+407	In a hybrid work environment			194
+408	In a remote work environment			195
+409	Before, during, or after meetings			196
+410	During team-based work			197
+411	When working independently			198
+412	Rarely			199
+413	Occasionally			200
+414	Frequently			201
+415	In the morning			202
+416	In the afternoon			203
+417	In the evening			204
+418	Text and email distractions			220
+419	Conversations			221
+420	A cluttered workspace			222
+421	Feeling overwhelmed			223
+422	Lack of focus			224
+423	None of these		TRUE	
+424	I procrastinate	I delay or put off tasks to the last minute		225
+425	I experience tasks as boring, difficult, or uninteresting			226
+426	I strive for perfection			227
+427	I find tasks too difficult or complex			228
+428	I leave work to the last minute			229
+429	I'm good with time management		TRUE	
+430	I lose track of goals and priorities			230
+431	I lose focus on what to do			231
+432	I'm scattered about what to do and when			232
+433	I'm unsure what the most important task is			233
+434	I find I'm more productive at different times of the day			234
+435	I forget tasks or deadlines			235
+436	I leave tasks to the last minute			236
+437	I want to be more reliable and responsible			237
+438	I experience stress and anxiety			238
+439	I'm good with this		TRUE	
+440	I'm not sure "why" I am not motivated			239
+441	I don't know how to set motivational goals	I don't know how to set motivational goals		240
+442	I don't know how to reward myself	I don't know how to reward myself		241,242,243
+443	I'm good with this		TRUE	
+444	I have challenges relaxing mentally	I struggle to relax my mind		244
+445	I have challenges relaxing physically	I struggle to relax my body		245
+446	I am stressed about my relationships	I am stressed about my relationships		246
+447	I'm good with this		TRUE	
+448	None of the above		TRUE	
+452	I'm good with reading		TRUE	
+453	No issues with either		TRUE	
+454	Mark as Read	Mark as Read	TRUE	
+455	Mark as Read	Mark as Read	TRUE	
+456	Mark as Read	Mark as Read	TRUE	
+457	Mark as Read	Mark as Read	TRUE	
+458	Mark as Read	Mark as Read	TRUE	
+459	Mark as Read	Mark as Read	TRUE	
+460	Mark as Read	Mark as Read	TRUE	
+461	Mark as Read	Mark as Read	TRUE	
+462	Mark as Read	Mark as Read	TRUE	
+463	Mark as Read	Mark as Read	TRUE	
+464	Mark as Read	Mark as Read	TRUE	

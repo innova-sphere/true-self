@@ -1,0 +1,22 @@
+{
+  "0": {
+    "id": "0",
+    "name": "My Space",
+    "description": "Personalize your workspace"
+  },
+  "1": {
+    "id": "1",
+    "name": "My Habits",
+    "description": "Tools and strategies to improve productivity"
+  },
+  "2": {
+    "id": "2",
+    "name": "My Balance",
+    "description": "Optimize mental well-being"
+  },
+  "3": {
+    "id": "3",
+    "name": "My Focus",
+    "description": "Avoid distractions and achieve your goals"
+  }
+}

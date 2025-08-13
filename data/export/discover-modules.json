@@ -1,0 +1,114 @@
+{
+  "1": {
+    "id": "1",
+    "title": "Static Standing Environments",
+    "description": "Ergonomic solutions for workers who stand for extended periods, including cashiers and factory workers. Covers comfort enhancements, posture adjustments, and strain reduction strategies.",
+    "topics": "1,2,3,4",
+    "questions": "1,2,3,4,5,6,7,214",
+    "tags": "My Space"
+  },
+  "2": {
+    "id": "2",
+    "title": "Moving & Walking Environments",
+    "description": "Workplace wellness strategies for employees who move frequently during work, including retail workers, waitstaff, and warehouse packers. Focuses on footwear, fatigue management, and posture prevention.",
+    "topics": "5,6,7,8",
+    "questions": "8,9,10,11,12,13,14,15,16,215",
+    "tags": "My Space"
+  },
+  "3": {
+    "id": "3",
+    "title": "Parcel Delivery & Courier Drivers",
+    "description": "Vehicle ergonomics and safety protocols specifically designed for delivery drivers and couriers. Addresses vehicle setup, physical safety, and comfort features for frequent entry/exit.",
+    "topics": "9,10,11,12",
+    "questions": "17,18,19,20,216",
+    "tags": "My Space"
+  },
+  "4": {
+    "id": "4",
+    "title": "Long Haul Truck Drivers",
+    "description": "Comprehensive ergonomic guidance for long-distance drivers focusing on extended sitting periods, vehicle ergonomics, and fatigue management strategies.",
+    "topics": "13,14,15",
+    "questions": "21,22,23,24,217",
+    "tags": "My Space"
+  },
+  "5": {
+    "id": "5",
+    "title": "Bus & Public Transit Drivers",
+    "description": "Specialized ergonomic solutions for public transportation operators including bus drivers. Covers vehicle ergonomics, passenger interaction considerations, and shift-specific comfort needs.",
+    "topics": "16,17",
+    "questions": "25,26,27,28,218",
+    "tags": "My Space"
+  },
+  "6": {
+    "id": "6",
+    "title": "Rideshare & Taxi Drivers",
+    "description": "Ergonomic strategies for ride-sharing and taxi operators who spend long hours in vehicles with frequent passenger interactions. Focuses on comfort, circulation, and health awareness.",
+    "topics": "18,19,20",
+    "questions": "29,30,31,32,219",
+    "tags": "My Space"
+  },
+  "7": {
+    "id": "7",
+    "title": "Emergency Vehicle Drivers",
+    "description": "Critical ergonomic solutions for first responders including ambulance, fire, and police vehicle operators. Emphasizes rapid response readiness and extended shift comfort.",
+    "topics": "21,22,23",
+    "questions": "33,34,35,36,220",
+    "tags": "My Space"
+  },
+  "8": {
+    "id": "8",
+    "title": "Workplace Adjustments",
+    "description": "Essential office ergonomics covering seating, desk setup, and environmental modifications. Includes chair height, desk positioning, and noise management for traditional office environments.",
+    "topics": "24,25,26,27",
+    "questions": "37,38,39,221",
+    "tags": "My Space"
+  },
+  "9": {
+    "id": "9",
+    "title": "Input & Interaction Ergonomics",
+    "description": "Computer interaction ergonomics focusing on keyboards, mice, and communication tools. Addresses repetitive strain prevention and optimal equipment selection for desk-based work.",
+    "topics": "28,29,30,31,32",
+    "questions": "40,41,42,43,222",
+    "tags": "My Space"
+  },
+  "10": {
+    "id": "10",
+    "title": "Document and Screen Positioning",
+    "description": "Visual ergonomics for screen-based work including document management and monitor setup. Covers eye strain prevention and optimal viewing arrangements for productivity.",
+    "topics": "33,34,35",
+    "questions": "44,45,223",
+    "tags": "My Space"
+  },
+  "11": {
+    "id": "11",
+    "title": "Fatigue & Wellness Strategies",
+    "description": "Comprehensive wellness strategies addressing break management, eye health, and lighting optimization. Focuses on maintaining energy levels and preventing work-related fatigue.",
+    "topics": "36,37,38,39",
+    "questions": "46,47,48,224",
+    "tags": "My Balance"
+  },
+  "12": {
+    "id": "12",
+    "title": "Efficiency",
+    "description": "Productivity and focus enhancement strategies covering concentration management, time management, and motivation. Addresses digital distractions, procrastination, task prioritization, and maintaining motivation in work environments.",
+    "topics": "51,52",
+    "questions": "193,194,195,196,197,198",
+    "tags": "My Focus"
+  },
+  "13": {
+    "id": "13",
+    "title": "Digital Accessibility",
+    "description": "Comprehensive support for reading, writing, note-taking, and typing challenges. Includes assistive technologies, adaptive tools, and strategies for individuals with learning differences or physical limitations affecting digital interaction.",
+    "topics": "53,54",
+    "questions": "199,200,201,202,203",
+    "tags": "My Habits"
+  },
+  "14": {
+    "id": "14",
+    "title": "Mental Health",
+    "description": "Mental wellness and emotional regulation strategies addressing workplace stress, anxiety, and break management. Focuses on identifying triggers, coping mechanisms, and building resilience for sustained mental health in professional environments.",
+    "topics": "55,56,57",
+    "questions": "204,205,206,207,208,209,210,211,212,213",
+    "tags": "My Balance"
+  }
+}

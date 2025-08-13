@@ -1,0 +1,722 @@
+{
+  "1": {
+    "id": "1",
+    "title": "Flooring Support",
+    "description": "Do you have an anti-fatigue mat or slip-resistant flooring at your workstation?",
+    "question_type": "Yes/No",
+    "options": "1,2",
+    "education_title": "",
+    "education_description": ""
+  },
+  "2": {
+    "id": "2",
+    "title": "Footwear",
+    "description": "Is your footwear supportive and comfortable for prolonged standing?",
+    "question_type": "Yes/No",
+    "options": "3,4",
+    "education_title": "",
+    "education_description": ""
+  },
+  "3": {
+    "id": "3",
+    "title": "Seating Options",
+    "description": "Do you have access to a chair or stool to alternate between sitting and standing?",
+    "question_type": "Yes/No",
+    "options": "5,6",
+    "education_title": "",
+    "education_description": ""
+  },
+  "4": {
+    "id": "4",
+    "title": "Adjustable Work Surface",
+    "description": "Can you adjust your work surface to fit your height and allow position changes?",
+    "question_type": "Yes/No",
+    "options": "7,8",
+    "education_title": "",
+    "education_description": ""
+  },
+  "5": {
+    "id": "5",
+    "title": "Footrail or Footrest",
+    "description": "Do you use a footrail or footrest to shift weight while standing?",
+    "question_type": "Yes/No",
+    "options": "9,10",
+    "education_title": "",
+    "education_description": ""
+  },
+  "6": {
+    "id": "6",
+    "title": "Optimal Work Setup",
+    "description": "Are commonly used items within easy reach, avoiding overextending? OR do you experience pain and discomfort in upper body such as shoulders, back, or arms?",
+    "question_type": "Yes/No",
+    "options": "11,12",
+    "education_title": "",
+    "education_description": ""
+  },
+  "7": {
+    "id": "7",
+    "title": "Task Rotation",
+    "description": "Can you alternate between tasks to reduce repetitive motions?",
+    "question_type": "Yes/No",
+    "options": "13,14",
+    "education_title": "",
+    "education_description": ""
+  },
+  "8": {
+    "id": "8",
+    "title": "New Shoes",
+    "description": "Have you replaced your work shoes recently?",
+    "question_type": "Yes/No",
+    "options": "15,16",
+    "education_title": "",
+    "education_description": ""
+  },
+  "9": {
+    "id": "9",
+    "title": "Proper Fit",
+    "description": "Do your shoes fit well with enough room for toe movement?",
+    "question_type": "Yes/No",
+    "options": "17,18",
+    "education_title": "",
+    "education_description": ""
+  },
+  "10": {
+    "id": "10",
+    "title": "Added Support",
+    "description": "Have you considered orthotics or insoles for additional support?",
+    "question_type": "Yes/No",
+    "options": "19,20",
+    "education_title": "",
+    "education_description": ""
+  },
+  "11": {
+    "id": "11",
+    "title": "Breaks",
+    "description": "Do you take regular breaks to sit and rest your feet?",
+    "question_type": "Yes/No",
+    "options": "21,22",
+    "education_title": "",
+    "education_description": ""
+  },
+  "12": {
+    "id": "12",
+    "title": "Shift Scheduling",
+    "description": "Does your schedule allow for adequate rest between shifts?",
+    "question_type": "Yes/No",
+    "options": "23,24",
+    "education_title": "",
+    "education_description": ""
+  },
+  "13": {
+    "id": "13",
+    "title": "Stretching Routines",
+    "description": "Do you stretch regularly throughout your shift?",
+    "question_type": "Yes/No",
+    "options": "25,26",
+    "education_title": "",
+    "education_description": ""
+  },
+  "14": {
+    "id": "14",
+    "title": "Lifting & Carrying",
+    "description": "Do you use proper lifting techniques when carrying items?",
+    "question_type": "Yes/No",
+    "options": "27,28",
+    "education_title": "",
+    "education_description": ""
+  },
+  "15": {
+    "id": "15",
+    "title": "Use of Mechanical Aids",
+    "description": "Do you use carts or mechanical aids to move heavy items?",
+    "question_type": "Yes/No",
+    "options": "29,30",
+    "education_title": "",
+    "education_description": ""
+  },
+  "16": {
+    "id": "16",
+    "title": "Tray Carrying Technique",
+    "description": "Do you carry trays close to your body using both hands?",
+    "question_type": "Yes/No",
+    "options": "31,32",
+    "education_title": "",
+    "education_description": ""
+  },
+  "17": {
+    "id": "17",
+    "title": "Seat Positioning, Steering Distance & Rapid Entry/Exit",
+    "description": "Do you have proper clearance from the steering wheel and enough room to comfortably operate the pedals?",
+    "question_type": "Yes/No",
+    "options": "33,34",
+    "education_title": "",
+    "education_description": ""
+  },
+  "18": {
+    "id": "18",
+    "title": "Lifting and Package Handling",
+    "description": "Do your daily lifting routines cause strain on your back, knees, or shoulders?",
+    "question_type": "Yes/No",
+    "options": "35,36",
+    "education_title": "",
+    "education_description": ""
+  },
+  "19": {
+    "id": "19",
+    "title": "Headroom and Seat Design",
+    "description": "Do you have enough headroom and seat depth to stay comfortable throughout your shift?",
+    "question_type": "Yes/No",
+    "options": "37,38",
+    "education_title": "",
+    "education_description": ""
+  },
+  "20": {
+    "id": "20",
+    "title": "Neck Support and Whiplash Collision Protection",
+    "description": "Is your headrest properly adjusted for maximum safety in case of a rear-end collision?",
+    "question_type": "Yes/No",
+    "options": "39,40",
+    "education_title": "",
+    "education_description": ""
+  },
+  "21": {
+    "id": "21",
+    "title": "Seat Positioning, Steering Distance & Rapid Entry/Exit",
+    "description": "Do you have proper clearance from the steering wheel and enough room to comfortably operate the pedals?",
+    "question_type": "Yes/No",
+    "options": "41,42",
+    "education_title": "",
+    "education_description": ""
+  },
+  "22": {
+    "id": "22",
+    "title": "Seat Comfort, Circulation & Posture",
+    "description": "Is your seat comfortable enough to sit for hours without pressure points or numbness?",
+    "question_type": "Yes/No",
+    "options": "43,44",
+    "education_title": "",
+    "education_description": ""
+  },
+  "23": {
+    "id": "23",
+    "title": "Neck Support and Whiplash Collision Protection",
+    "description": "Is your headrest properly adjusted for maximum safety in case of a rear-end collision?",
+    "question_type": "Yes/No",
+    "options": "45,46",
+    "education_title": "",
+    "education_description": ""
+  },
+  "24": {
+    "id": "24",
+    "title": "General Alertness and Fatigue Prevention",
+    "description": "Do you feel stiff, drowsy, or mentally foggy during long stretches of driving?",
+    "question_type": "Yes/No",
+    "options": "47,48",
+    "education_title": "",
+    "education_description": ""
+  },
+  "25": {
+    "id": "25",
+    "title": "Steering Reach and Arm Support",
+    "description": "Do you feel shoulder or arm strain after hours of driving?",
+    "question_type": "Yes/No",
+    "options": "49,50",
+    "education_title": "",
+    "education_description": ""
+  },
+  "26": {
+    "id": "26",
+    "title": "Seat Positioning, Steering Distance & Rapid Entry/Exit",
+    "description": "Do you have proper clearance from the steering wheel and enough room to comfortably operate the pedals?",
+    "question_type": "Yes/No",
+    "options": "51,52",
+    "education_title": "",
+    "education_description": ""
+  },
+  "27": {
+    "id": "27",
+    "title": "Headroom and Seat Design",
+    "description": "Do you have enough headroom and seat depth to stay comfortable throughout your shift?",
+    "question_type": "Yes/No",
+    "options": "53,54",
+    "education_title": "",
+    "education_description": ""
+  },
+  "28": {
+    "id": "28",
+    "title": "Neck Support and Whiplash Collision Protection",
+    "description": "Is your headrest properly adjusted for maximum safety in case of a rear-end collision?",
+    "question_type": "Yes/No",
+    "options": "55,56",
+    "education_title": "",
+    "education_description": ""
+  },
+  "29": {
+    "id": "29",
+    "title": "Seat Comfort, Circulation & Posture",
+    "description": "Is your seat comfortable enough to sit for hours without pressure points or numbness?",
+    "question_type": "Yes/No",
+    "options": "57,58",
+    "education_title": "",
+    "education_description": ""
+  },
+  "30": {
+    "id": "30",
+    "title": "Seat Positioning, Steering Distance & Rapid Entry/Exit",
+    "description": "Do you have proper clearance from the steering wheel and enough room to comfortably operate the pedals?",
+    "question_type": "Yes/No",
+    "options": "59,60",
+    "education_title": "",
+    "education_description": ""
+  },
+  "31": {
+    "id": "31",
+    "title": "Neck Support and Whiplash Collision Protection",
+    "description": "Is your headrest properly adjusted for maximum safety in case of a rear-end collision?",
+    "question_type": "Yes/No",
+    "options": "61,62",
+    "education_title": "",
+    "education_description": ""
+  },
+  "32": {
+    "id": "32",
+    "title": "Ignoring Early Discomfort or Warning Signs",
+    "description": "Do you wait until something hurts to make an adjustment?",
+    "question_type": "Yes/No",
+    "options": "63,64",
+    "education_title": "",
+    "education_description": ""
+  },
+  "33": {
+    "id": "33",
+    "title": "Seat Positioning, Steering Distance & Rapid Entry/Exit",
+    "description": "Do you have proper clearance from the steering wheel and enough room to comfortably operate the pedals?",
+    "question_type": "Yes/No",
+    "options": "65,66",
+    "education_title": "",
+    "education_description": ""
+  },
+  "34": {
+    "id": "34",
+    "title": "Neck Support and Whiplash Collision Protection",
+    "description": "Is your headrest properly adjusted for maximum safety in case of a rear-end collision?",
+    "question_type": "Yes/No",
+    "options": "67,68",
+    "education_title": "",
+    "education_description": ""
+  },
+  "35": {
+    "id": "35",
+    "title": "Headroom and Seat Design",
+    "description": "Do you have enough headroom and seat depth to stay comfortable throughout your shift?",
+    "question_type": "Yes/No",
+    "options": "69,70",
+    "education_title": "",
+    "education_description": ""
+  },
+  "36": {
+    "id": "36",
+    "title": "Ignoring Early Discomfort or Warning Signs",
+    "description": "Do you wait until something hurts to make an adjustment?",
+    "question_type": "Yes/No",
+    "options": "71,72",
+    "education_title": "",
+    "education_description": ""
+  },
+  "37": {
+    "id": "37",
+    "title": "Chair Height Adjustment",
+    "description": "Does your chair allow proper height adjustment so your knees are bent at 90° with feet flat on the floor?",
+    "question_type": "Multiple Choice",
+    "options": "73,74,75",
+    "education_title": "",
+    "education_description": ""
+  },
+  "38": {
+    "id": "38",
+    "title": "Desk Height Adjustment",
+    "description": "Can you adjust your desk height to ensure that your face is at eye level with your screen?",
+    "question_type": "Multiple Choice",
+    "options": "76,77,78",
+    "education_title": "",
+    "education_description": ""
+  },
+  "39": {
+    "id": "39",
+    "title": "Workspace Noise Control",
+    "description": "Can you change your physical workspace to help reduce noise and distractions?",
+    "question_type": "Multiple Choice",
+    "options": "79,80,81,82",
+    "education_title": "",
+    "education_description": ""
+  },
+  "40": {
+    "id": "40",
+    "title": "Keyboard Type Selection",
+    "description": "What type of keyboard would best suit your work needs?",
+    "question_type": "Multiple Choice",
+    "options": "83,84,85,86,87,88",
+    "education_title": "",
+    "education_description": ""
+  },
+  "41": {
+    "id": "41",
+    "title": "Mouse Type Selection",
+    "description": "What type of mouse would best address your ergonomic needs?",
+    "question_type": "Multiple Choice",
+    "options": "89,90,91,92",
+    "education_title": "",
+    "education_description": ""
+  },
+  "42": {
+    "id": "42",
+    "title": "Phone/Headset Usage",
+    "description": "Do you frequently hold a phone to your ear for extended periods or experience neck strain during calls?",
+    "question_type": "Yes/No",
+    "options": "93,94",
+    "education_title": "",
+    "education_description": ""
+  },
+  "43": {
+    "id": "43",
+    "title": "Cable Organization",
+    "description": "Do you have cables around your desk area that could use better organization?",
+    "question_type": "Multiple Choice",
+    "options": "95,96,97",
+    "education_title": "",
+    "education_description": ""
+  },
+  "44": {
+    "id": "44",
+    "title": "Document Referencing",
+    "description": "Do you frequently reference physical documents while working on a computer, causing neck strain from looking up and down?",
+    "question_type": "Yes/No",
+    "options": "98,99",
+    "education_title": "",
+    "education_description": ""
+  },
+  "45": {
+    "id": "45",
+    "title": "External Monitor Needs",
+    "description": "What is your current monitor setup and productivity needs?",
+    "question_type": "Multiple Choice",
+    "options": "100,101,102,103",
+    "education_title": "",
+    "education_description": ""
+  },
+  "46": {
+    "id": "46",
+    "title": "Break Habits",
+    "description": "Which statement best describes your break-taking habits?",
+    "question_type": "Multiple Choice",
+    "options": "104,105,106,107,108",
+    "education_title": "",
+    "education_description": ""
+  },
+  "47": {
+    "id": "47",
+    "title": "Eye Strain Management",
+    "description": "Which statement best describes your eye health needs?",
+    "question_type": "Multiple Choice",
+    "options": "109,110,111,112,113",
+    "education_title": "",
+    "education_description": ""
+  },
+  "48": {
+    "id": "48",
+    "title": "Lighting Conditions",
+    "description": "Which lighting condition affects you most?",
+    "question_type": "Multiple Choice",
+    "options": "114,115,116,117,118",
+    "education_title": "",
+    "education_description": ""
+  },
+  "193": {
+    "id": "193",
+    "title": "Concentration Disruptions",
+    "description": "Do any of these disrupt your concentration at work?",
+    "question_type": "checklist",
+    "options": "418,419,420,421,422,200",
+    "education_title": "Do any of these disrupt your concentration?",
+    "education_description": ""
+  },
+  "194": {
+    "id": "194",
+    "title": "Time Management Challenges",
+    "description": "Are you challenged with getting things done on time, managing your time, and reducing procrastination?",
+    "question_type": "checklist",
+    "options": "424,425,426,427,428,200",
+    "education_title": "Do you stuggle with getting things done on time, managing your time, or reducing procrastination?",
+    "education_description": ""
+  },
+  "195": {
+    "id": "195",
+    "title": "Productivity Strategies",
+    "description": "Let's explore specific strategies to address your challenges.",
+    "question_type": "checklist",
+    "options": "430,431,432,433,434",
+    "education_title": "",
+    "education_description": ""
+  },
+  "196": {
+    "id": "196",
+    "title": "Information and Deadline Tracking",
+    "description": "Are you challenged with keeping track of important information and deadlines?",
+    "question_type": "checklist",
+    "options": "435,436,437,438,439",
+    "education_title": "Do you struggle to keep track of important information and deadlines?",
+    "education_description": ""
+  },
+  "197": {
+    "id": "197",
+    "title": "Work Motivation",
+    "description": "Are you challenged with staying motivated at work?",
+    "question_type": "checklist",
+    "options": "440,441,442,443",
+    "education_title": "Do you struggle with staying motivated at work",
+    "education_description": ""
+  },
+  "198": {
+    "id": "198",
+    "title": "Work Stress",
+    "description": "Are you challenged with stress at work?",
+    "question_type": "checklist",
+    "options": "444,445,446,447",
+    "education_title": "Do you experience stress at work or school?",
+    "education_description": ""
+  },
+  "199": {
+    "id": "199",
+    "title": "Reading Medium Challenges",
+    "description": "Do you have any challenges with what you read on?",
+    "question_type": "checklist",
+    "options": "363,364,452",
+    "education_title": "",
+    "education_description": ""
+  },
+  "200": {
+    "id": "200",
+    "title": "General Reading Challenges",
+    "description": "Do you have any challenges with reading in general?",
+    "question_type": "checklist",
+    "options": "365,366,453",
+    "education_title": "",
+    "education_description": ""
+  },
+  "201": {
+    "id": "201",
+    "title": "Writing Challenges",
+    "description": "Do you experience challenges when writing?",
+    "question_type": "checklist",
+    "options": "367,368,369,370",
+    "education_title": "Do you experience any difficulty with writing?",
+    "education_description": ""
+  },
+  "202": {
+    "id": "202",
+    "title": "Note-Taking Difficulties",
+    "description": "Do you have difficulty taking notes?",
+    "question_type": "checklist",
+    "options": "371,372,373,374,375,376",
+    "education_title": "",
+    "education_description": ""
+  },
+  "203": {
+    "id": "203",
+    "title": "Typing Challenges",
+    "description": "Do you experience typing challenges?",
+    "question_type": "checklist",
+    "options": "377,378,379,380",
+    "education_title": "Do you have difficulty typing?",
+    "education_description": ""
+  },
+  "204": {
+    "id": "204",
+    "title": "Work Environment Anxiety",
+    "description": "I feel my work environment:",
+    "question_type": "radio",
+    "options": "389,390",
+    "education_title": "",
+    "education_description": ""
+  },
+  "205": {
+    "id": "205",
+    "title": "Stress Environments",
+    "description": "In which work environments do you experience stress?",
+    "question_type": "checklist",
+    "options": "391,392,393",
+    "education_title": "In which focus environments do you experience stress?",
+    "education_description": ""
+  },
+  "206": {
+    "id": "206",
+    "title": "Stress Timing at Work",
+    "description": "At what points during your work do you experience stress?",
+    "question_type": "checklist",
+    "options": "394,395,396",
+    "education_title": "At what points during your day do you experience stress?",
+    "education_description": ""
+  },
+  "207": {
+    "id": "207",
+    "title": "Stress Frequency",
+    "description": "How frequently do you experience stress at work?",
+    "question_type": "checklist",
+    "options": "397,398,399",
+    "education_title": "How frequently do you experience stress?",
+    "education_description": ""
+  },
+  "208": {
+    "id": "208",
+    "title": "Daily Stress Timing",
+    "description": "At what time of day do you experience stress most often?",
+    "question_type": "checklist",
+    "options": "400,401,402",
+    "education_title": "",
+    "education_description": ""
+  },
+  "209": {
+    "id": "209",
+    "title": "Anxiety Environments",
+    "description": "In which work environments do you experience anxiety?",
+    "question_type": "checklist",
+    "options": "406,407,408",
+    "education_title": "In which focus environments do you experience anxiety?",
+    "education_description": ""
+  },
+  "210": {
+    "id": "210",
+    "title": "Anxiety Timing at Work",
+    "description": "At what points during your work do you experience anxiety?",
+    "question_type": "checklist",
+    "options": "409,410,411",
+    "education_title": "At what points during your day do you experience anxiety?",
+    "education_description": ""
+  },
+  "211": {
+    "id": "211",
+    "title": "Anxiety Frequency",
+    "description": "How frequently do you experience anxiety at work?",
+    "question_type": "checklist",
+    "options": "412,413,414",
+    "education_title": "How frequently do you experience anxiety?",
+    "education_description": ""
+  },
+  "212": {
+    "id": "212",
+    "title": "Daily Anxiety Timing",
+    "description": "At what time of day do you experience anxiety most often?",
+    "question_type": "checklist",
+    "options": "415,416,417",
+    "education_title": "",
+    "education_description": ""
+  },
+  "213": {
+    "id": "213",
+    "title": "Break Frequency",
+    "description": "How often do you take breaks at work?",
+    "question_type": "checklist",
+    "options": "403,404,405",
+    "education_title": "How often do you take breaks?",
+    "education_description": ""
+  },
+  "214": {
+    "id": "214",
+    "title": "Static Standing Best Practices",
+    "description": "Review essential best practices for static standing environments",
+    "question_type": "informational",
+    "options": "454",
+    "education_title": "",
+    "education_description": ""
+  },
+  "215": {
+    "id": "215",
+    "title": "Moving & Walking Best Practices",
+    "description": "Review essential best practices for moving and walking environments",
+    "question_type": "informational",
+    "options": "455",
+    "education_title": "",
+    "education_description": ""
+  },
+  "216": {
+    "id": "216",
+    "title": "Parcel Delivery Best Practices",
+    "description": "Review essential best practices for parcel delivery and courier drivers",
+    "question_type": "informational",
+    "options": "456",
+    "education_title": "",
+    "education_description": ""
+  },
+  "217": {
+    "id": "217",
+    "title": "Long Haul Best Practices",
+    "description": "Review essential best practices for long haul truck drivers",
+    "question_type": "informational",
+    "options": "457",
+    "education_title": "",
+    "education_description": ""
+  },
+  "218": {
+    "id": "218",
+    "title": "Bus & Transit Best Practices",
+    "description": "Review essential best practices for bus and public transit drivers",
+    "question_type": "informational",
+    "options": "458",
+    "education_title": "",
+    "education_description": ""
+  },
+  "219": {
+    "id": "219",
+    "title": "Rideshare & Taxi Best Practices",
+    "description": "Review essential best practices for rideshare and taxi drivers",
+    "question_type": "informational",
+    "options": "459",
+    "education_title": "",
+    "education_description": ""
+  },
+  "220": {
+    "id": "220",
+    "title": "Emergency Vehicle Best Practices",
+    "description": "Review essential best practices for emergency vehicle drivers",
+    "question_type": "informational",
+    "options": "460",
+    "education_title": "",
+    "education_description": ""
+  },
+  "221": {
+    "id": "221",
+    "title": "Workplace Adjustments Best Practices",
+    "description": "Review essential best practices for workplace adjustments",
+    "question_type": "informational",
+    "options": "461",
+    "education_title": "",
+    "education_description": ""
+  },
+  "222": {
+    "id": "222",
+    "title": "Input & Interaction Best Practices",
+    "description": "Review essential best practices for input and interaction ergonomics",
+    "question_type": "informational",
+    "options": "462",
+    "education_title": "",
+    "education_description": ""
+  },
+  "223": {
+    "id": "223",
+    "title": "Document & Screen Best Practices",
+    "description": "Review essential best practices for document and screen positioning",
+    "question_type": "informational",
+    "options": "463",
+    "education_title": "",
+    "education_description": ""
+  },
+  "224": {
+    "id": "224",
+    "title": "Fatigue & Wellness Best Practices",
+    "description": "Review essential best practices for fatigue and wellness strategies",
+    "question_type": "informational",
+    "options": "464",
+    "education_title": "",
+    "education_description": ""
+  }
+}
